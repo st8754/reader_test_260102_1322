@@ -1,0 +1,8 @@
+{
+  "name": "RS485 EPC Protocol Tester",
+  "description": "A professional tool for testing and validating RS485 communication protocols, specifically designed for Read EPC Data Advance (64H) commands with real-time statistics and CSV export.",
+  "requestFramePermissions": [
+    "camera",
+    "serial"
+  ]
+}
